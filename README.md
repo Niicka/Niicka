@@ -31,13 +31,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/gray.2i/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gray.2i/"> </a>
          <a href=https://niicka.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://niicka.tistory.com"> </a>
-         <a href=2035ad45d9be800885b4d330264995df> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[2035ad45d9be800885b4d330264995df](https://indecisive-perch-f07.notion.site/2035ad45d9be800885b4d330264995df?source=copy_link)"> </a>
+         <a href=2035ad45d9be800885b4d330264995df> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://indecisive-perch-f07.notion.site/2035ad45d9be800885b4d330264995df?source=copy_link> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Niicka&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niicka&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+           /> [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{lnk1101603})</div> 
     </div>
     
