@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Backend Developer | 이나경 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 아이디어를 현실의 서비스로 구현하며 성장하는 백엔드 개발자 지망생입니다. Node.js와 Spring Boot를 기반으로 안정적이고 확장성 있는 서버 구조를 지향하며, 협업 과정에서 더 나은 코드를 만들어가는 것을 목표로 합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 아이디어를 현실의 서비스로 구현하며 성장하는 백엔드 개발자 지망생입니다! Node.js와 Spring Boot를 기반으로 안정적이고 확장성 있는 서버 구조를 지향하며, 협업 과정에서 더 나은 코드를 만들어가는 것을 목표로 합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
