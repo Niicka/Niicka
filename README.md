@@ -51,10 +51,8 @@
 <h2>🏅 Stats</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=niicka&show_icons=true&theme=default" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicka&layout=compact&hide=jupyter%20notebook,roff&theme=default" height="165">
-<img src="https://komarev.com/ghpvc/?username=niicka&color=blue">
-<img src="https://streak-stats.demolab.com?user=lnk1101603">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niicka&show_icons=true&theme=default" height="165">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niicka&layout=compact&theme=default" height="165">
 </p>
 
 </div>
