@@ -52,7 +52,6 @@
 
 <p>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niicka&show_icons=true&theme=default" height="165">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niicka&layout=compact&theme=default" height="165">
 </p>
 
 </div>
